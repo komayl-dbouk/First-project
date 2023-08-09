@@ -12,7 +12,7 @@
     align-items: center;
     padding-top: 15px;
 }
-#header{
+.header{
     background-color: #333;
     opacity: 0.6;
 }
